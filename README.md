@@ -39,6 +39,8 @@ It can be hosted statically or server rendered. Use whatever **Javascript** tech
 }
 ```
 
+**- or -**
+
 **GET** `/:operation/:number1/:number2`
 
 `:operation` can be one of `divide`, `multiply`, `add` or `subtract`
