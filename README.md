@@ -1,15 +1,14 @@
-# Brief
-> Write a frontend which uses the included calculator API for basic operations: division, multiplication, addition and subtraction. The documentation can be found below this section. No part of the calculation should be done on the frontend and It shoud be possible to use the previous operations result in the next calculation.
+# Calculator frontend challenge
+> Write a frontend which uses the included calculator API for basic operations: division, multiplication, addition and subtraction (the documentation can be found below this section). No part of the calculation should be done on the frontend. It should also be possible to use the previous operation's result in the next calculation.
 
 ## Instructions
-1. Fork this repository
-2. Send us a link to your fork when you're done
+1. Fork and change this repository or create a whole new one
+2. Send us a link to your solution (with instructions on how to run it locally)
+
+It can be hosted statically or server rendered. Use whatever **Javascript** technology you feel will be most effective.
 
 ## What we hope to see
-Something simple that we can run and test. It can be statically hosted or server rendered. Use whatever **Javascript** technology you feel will be most effective.
-
-More specifically:
-- Simple, user friendly interface (not overly designed)
+- Simple, user friendly interface (Minimal design)
 - **Concise** code that is **highly readable**
   - Understandable for juniors
   - Shows a clever use of fundamentals for more experienced developers
