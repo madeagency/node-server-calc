@@ -1,3 +1,21 @@
+# Brief
+> Write a frontend which uses the included calculator API for basic operations: division, multiplication, addition and subtraction. The documentation can be found below this section. No part of the calculation should be done on the frontend and It shoud be possible to use the previous operations result in the next calculation.
+
+## Instructions
+1. Fork this repository
+2. Send us a link to your fork when you're done
+
+## What we hope to see
+Something simple that we can run and test. It can be statically hosted or server rendered. Use whatever **Javascript** technology you feel will be most effective.
+
+More specifically:
+- Simple, user friendly interface (not overly designed)
+- **Concise** code that is **highly readable**
+  - Understandable for juniors
+  - Shows a clever use of fundamentals for more experienced developers
+
+---
+
 # node-server-calc
 > Calculator as a service ➗✖️➕➖
 
@@ -33,19 +51,3 @@
 - Written in `Babel`
 - Uses `express` and `body-parser`
 - `npm start` uses `nodemon`
-
----
-
-### Brief
-> Write a frontend which uses the calculator to do basic operations, division, multiplication, addition and subtraction. It shoud be possible to use the previous operations result in the next calculation.
-
-### What we want
-Something simple that we can run and test. Can be statically hosted or server rendered. Use whatever technology you feel most comfortable with as long as it's **Javascript**.
-
-The solution should be simple and user friendly.
-
-We woud like to see:
-- Concise code
-- Should be highly readable
-- Understandable for juniors
-- Clever use of fundamentals for more experienced developers
