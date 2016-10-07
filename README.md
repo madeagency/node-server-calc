@@ -48,7 +48,10 @@ It can be hosted statically or server rendered. Use whatever **Javascript** tech
 ## Test
 `npm test`
 
+Note: see requirements
+
 ## Requirementss
 - Written in `Babel`
 - Uses `express` and `body-parser`
 - `npm start` uses `nodemon`
+- `npm test` uses `babel-core` which needs to be installed with globally

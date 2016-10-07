@@ -1,7 +1,7 @@
 {
-  "name": "example-node-server",
+  "name": "node-server-calc",
   "version": "1.0.0",
-  "description": "Example Node Server w/ Babel",
+  "description": "Calculator as a Service",
   "main": "lib/index.js",
   "scripts": {
     "start": "nodemon lib/index.js --exec babel-node --presets es2015,stage-2",
@@ -9,7 +9,7 @@
     "serve": "node dist/index.js",
     "test": "mocha --compilers js:babel-core/register --require babel-polyfill"
   },
-  "author": "James Kyle <me@thejameskyle.com>",
+  "author": "Ross Berkland <ross@made.co.za>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.11.4",
