@@ -55,3 +55,25 @@ Note: see requirements
 - Uses `express` and `body-parser`
 - `npm start` uses `nodemon`
 - `npm test` uses `babel-core` which needs to be installed with globally
+
+
+License
+-------
+
+Node Server Calculator is © 2016 MADE Code PTY Ltd.
+It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
+
+[LICENSE]: LICENSE
+
+Maintained by
+----------------
+
+![madeagency](https://www.made.co.za/logo.png)
+
+Node Server Calculator was created and is maintained MADE Agency PTY Ltd.
+
+We love open source software. See our Github Profile for more.
+
+We're always looking for talented people who love programming. [Get in touch] with us.
+
+[Get in touch]: https://www.made.co.za?utm_source=github
