@@ -1,4 +1,6 @@
 # Calculator frontend challenge
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/madeagency/node-server-calc.svg)](https://greenkeeper.io/)
 > Write a frontend which uses the included calculator API for basic operations: division, multiplication, addition and subtraction (the documentation can be found below this section). No part of the calculation should be done on the frontend. It should also be possible to use the previous operation's result in the next calculation.
 
 ## Instructions
